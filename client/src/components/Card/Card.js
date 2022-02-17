@@ -37,6 +37,16 @@ const Card = () => {
         title="JavaScript"
         description="JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user."
       />
+      <Cardcomponent
+        img="https://www.ravedigital.agency/raveinfotech/wp-content/uploads/sites/2/2020/12/html51.jpg"
+        title="HTML"
+        description="HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables"
+      />
+      <Cardcomponent
+        img="https://blog.logrocket-assets.io/static/9946346663ae5f0cf92d3c5e089db5b6/faf7d/css-transitions-animate-hamburger-button.png"
+        title="CSS"
+        description="CSS is used to control the style of a web document in a simple and easy way.CSS is the acronym for Cascading Style Sheet."
+      />
     </div>
   );
 };
